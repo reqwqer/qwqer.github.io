@@ -1,0 +1,5 @@
+deploy:
+  type: git
+  repository: git@github.com:reqwqer/qwqer.github.io.git
+  branch: main
+
